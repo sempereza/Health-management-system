@@ -1,0 +1,6 @@
+com\hospital\model\Patient$EmergencyContact.class
+com\hospital\model\Patient$MedicalHistory.class
+com\hospital\model\Patient.class
+com\hospital\model\Patient$Medication.class
+com\hospital\model\Patient$Address.class
+com\hospital\model\Patient$InsuranceDetails.class
